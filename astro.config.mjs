@@ -3,7 +3,7 @@ import cloudflare from '@astrojs/cloudflare';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://cewektobrutcolmek.pages.dev',
+  site: 'https://indorame.pages.dev',
   output: 'server',
   adapter: cloudflare(),
   integrations: 
